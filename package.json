@@ -1,16 +1,16 @@
 {
-	"name": "nestjs-files",
-	"publisher": "AbhijoyBasak",
-	"displayName": "NestJS Files",
+	"name": "gauzyjs-files",
+	"publisher": "CraigMcMeechan",
+	"displayName": "GauzyJS Files",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/SpartanX1/nestjs-files"
+		"url": "https://github.com/craigmcmeechan/gauzyjs-filess"
 	},
 	"bugs": {
-		"url": "https://github.com/SpartanX1/nestjs-files/issues",
-		"email": "basak.abhijoy@gmail.com"
+		"url": "https://github.com/craigmcmeechan/gauzyjs-files/issues",
+		"email": "craig_mc@hotmail.com"
 	},
-	"description": "Quickly create NestJS Files",
+	"description": "Quickly create GauzyJS Files - Based on NestJS Files by SpartanX1/nestjs-files",
 	"icon": "images/icon.png",
 	"version": "0.5.1",
 	"engines": {
